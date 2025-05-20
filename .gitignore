@@ -1,0 +1,5 @@
+crawled_models/*
+!crawled_models/
+shared_data/*
+!shared_data
+training_params.json
